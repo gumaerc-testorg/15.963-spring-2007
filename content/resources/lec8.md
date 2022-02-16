@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information about bridgeton in this course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-963-management-accounting-and-control-spring-2007/04e4b095050fbf2a48a5818a119a47e8_lec8.pdf
+file: /media/courses/15-963-management-accounting-and-control-spring-2007/04e4b095050fbf2a48a5818a119a47e8_lec8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec8.pdf
 uid: 04e4b095-050f-bf2a-48a5-818a119a47e8

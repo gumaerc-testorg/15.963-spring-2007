@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information about vyaderm in this course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-963-management-accounting-and-control-spring-2007/60bda17aba99794161fc53898b00dc27_lec16.pdf
+file: /media/courses/15-963-management-accounting-and-control-spring-2007/60bda17aba99794161fc53898b00dc27_lec16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec16.pdf
 uid: 60bda17a-ba99-7941-61fc-53898b00dc27

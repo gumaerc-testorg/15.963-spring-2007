@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information about decision makingn-insource
   or outsource in this course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-963-management-accounting-and-control-spring-2007/fa787e542db9e2380d88b603d18c068b_lec4.pdf
+file: /media/courses/15-963-management-accounting-and-control-spring-2007/fa787e542db9e2380d88b603d18c068b_lec4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec4.pdf
 uid: fa787e54-2db9-e238-0d88-b603d18c068b

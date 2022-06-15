@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about Zimmerman 12?1 (Rust Belt)in
   this course.
-file: /media/courses/15-963-management-accounting-and-control-spring-2007/a5733a1d5aa1a43268bda356f80a4f46_lec20.pdf
+file: /courses/15-963-management-accounting-and-control-spring-2007/a5733a1d5aa1a43268bda356f80a4f46_lec20.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lec20.pdf
 uid: a5733a1d-5aa1-a432-68bd-a356f80a4f46
 ---
+This resource contains the information about Zimmerman 12?1 (Rust Belt)in this course.
+

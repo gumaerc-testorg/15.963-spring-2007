@@ -6,6 +6,7 @@ file: /courses/15-963-management-accounting-and-control-spring-2007/c0e4e8a92624
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec2.pdf
 uid: c0e4e8a9-2624-f3ef-f862-32c0b2df69cf
 ---
 This resource contains the information about cost terminology in this course.
-

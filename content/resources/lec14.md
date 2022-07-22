@@ -7,6 +7,7 @@ file: /courses/15-963-management-accounting-and-control-spring-2007/e0cea5d98a88
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: e0cea5d9-8a88-41f2-75be-44102b117c3b
 ---
 This resource contains the information about incentive distortions under
 absorption costing in this course.
-

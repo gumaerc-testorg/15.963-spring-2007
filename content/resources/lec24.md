@@ -5,6 +5,7 @@ file: /courses/15-963-management-accounting-and-control-spring-2007/d55a73a1b072
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec24.pdf
 uid: d55a73a1-b072-995d-d860-9be3ec845e3c
 ---
 This resource contains the information about wrap-up in this course.
-

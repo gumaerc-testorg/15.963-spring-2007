@@ -6,6 +6,7 @@ file: /courses/15-963-management-accounting-and-control-spring-2007/1ee7ce7d8d25
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6.pdf
 uid: 1ee7ce7d-8d25-d662-2cc7-957bfc33fe32
 ---
 This resource contains the information about product costing in this course.
-

@@ -6,6 +6,7 @@ file: /courses/15-963-management-accounting-and-control-spring-2007/a5733a1d5aa1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec20.pdf
 uid: a5733a1d-5aa1-a432-68bd-a356f80a4f46
 ---
 This resource contains the information about Zimmerman 12?1 (Rust Belt)in this course.
-

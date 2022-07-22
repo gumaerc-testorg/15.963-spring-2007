@@ -6,6 +6,7 @@ file: /courses/15-963-management-accounting-and-control-spring-2007/538145d46e14
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec11.pdf
 uid: 538145d4-6e14-793c-2313-e3fb70f1c685
 ---
 This resource contains the information about What is the competitive environment MDD faces? in this course.
-

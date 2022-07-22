@@ -6,6 +6,7 @@ file: /courses/15-963-management-accounting-and-control-spring-2007/aef15469a706
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec23.pdf
 uid: aef15469-a706-f4ae-855e-98783ca3e385
 ---
 This resource contains the information about ATH: chronological stages in this course.
-

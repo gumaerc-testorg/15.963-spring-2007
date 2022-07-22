@@ -7,6 +7,7 @@ file: /courses/15-963-management-accounting-and-control-spring-2007/a8a75aca244b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec10.pdf
 uid: a8a75aca-244b-e2b6-9b80-93ef5d191feb
 ---
 This resource contains the information about Why does the pricing matrix only have two dimensions, rather than multiple dimensions for all the different cost drivers in this course.
-

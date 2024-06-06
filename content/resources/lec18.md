@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information about Citibank in this course.
 file: /courses/15-963-management-accounting-and-control-spring-2007/26fb9d112f5e19045722d06c376dab06_lec18.pdf
+file_size: 149685
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

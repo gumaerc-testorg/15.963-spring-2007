@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information about vyaderm in this course.
-file: /courses/15-963-management-accounting-and-control-spring-2007/60bda17aba99794161fc53898b00dc27_lec16.pdf
+file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/60bda17aba99794161fc53898b00dc27_lec16.pdf
 file_size: 185415
 file_type: application/pdf
 learning_resource_types:

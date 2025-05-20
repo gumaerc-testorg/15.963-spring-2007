@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information about budgeting in this course.
-file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/6dda1d243f6790ad920b2f985a9ed41f_lec19.pdf
+file: /courses/15-963-management-accounting-and-control-spring-2007/6dda1d243f6790ad920b2f985a9ed41f_lec19.pdf
 file_size: 138260
 file_type: application/pdf
 learning_resource_types:

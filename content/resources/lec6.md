@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about product costing in this
   course.
-file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/1ee7ce7d8d25d6622cc7957bfc33fe32_lec6.pdf
+file: /courses/15-963-management-accounting-and-control-spring-2007/1ee7ce7d8d25d6622cc7957bfc33fe32_lec6.pdf
 file_size: 216850
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about organizational architecture
   in this course.
-file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/c8907feac0954a70e39a0d274b27805e_lec15.pdf
+file: /courses/15-963-management-accounting-and-control-spring-2007/c8907feac0954a70e39a0d274b27805e_lec15.pdf
 file_size: 138302
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information about bridgeton in this course.
-file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/04e4b095050fbf2a48a5818a119a47e8_lec8.pdf
+file: /courses/15-963-management-accounting-and-control-spring-2007/04e4b095050fbf2a48a5818a119a47e8_lec8.pdf
 file_size: 217539
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about cost terminology in this
   course.
-file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/c0e4e8a92624f3eff86232c0b2df69cf_lec2.pdf
+file: /courses/15-963-management-accounting-and-control-spring-2007/c0e4e8a92624f3eff86232c0b2df69cf_lec2.pdf
 file_size: 200512
 file_type: application/pdf
 learning_resource_types:

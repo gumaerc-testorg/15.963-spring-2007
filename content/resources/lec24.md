@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information about wrap-up in this course.
-file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/d55a73a1b072995dd8609be3ec845e3c_lec24.pdf
+file: /courses/15-963-management-accounting-and-control-spring-2007/d55a73a1b072995dd8609be3ec845e3c_lec24.pdf
 file_size: 113230
 file_type: application/pdf
 learning_resource_types:

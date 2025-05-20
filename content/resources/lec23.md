@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information about ATH: chronological stages
   in this course.'
-file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/aef15469a706f4ae855e98783ca3e385_lec23.pdf
+file: /courses/15-963-management-accounting-and-control-spring-2007/aef15469a706f4ae855e98783ca3e385_lec23.pdf
 file_size: 142555
 file_type: application/pdf
 learning_resource_types:

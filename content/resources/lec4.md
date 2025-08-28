@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about decision makingn-insource
   or outsource in this course.
-file: /courses/15-963-management-accounting-and-control-spring-2007/fa787e542db9e2380d88b603d18c068b_lec4.pdf
+file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/fa787e542db9e2380d88b603d18c068b_lec4.pdf
 file_size: 170204
 file_type: application/pdf
 learning_resource_types:

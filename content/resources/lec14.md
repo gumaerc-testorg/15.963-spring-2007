@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the information about incentive distortions under
 
   absorption costing in this course.'
-file: /courses/15-963-management-accounting-and-control-spring-2007/e0cea5d98a8841f275be44102b117c3b_lec14.pdf
+file: /ol-ocw-studio-app/courses/15-963-management-accounting-and-control-spring-2007/e0cea5d98a8841f275be44102b117c3b_lec14.pdf
 file_size: 185937
 file_type: application/pdf
 learning_resource_types:
